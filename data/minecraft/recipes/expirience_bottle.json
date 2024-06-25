@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:honeycomb"
+        },
+        {
+            "item": "minecraft:glow_ink_sac"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        }
+    ],
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}

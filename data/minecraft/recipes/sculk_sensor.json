@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "SSS"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:echo_shard"
+        },
+        "G": {
+            "item": "minecraft:glow_ink_sac"
+        },
+        "S": {
+            "item": "minecraft:sculk"
+        }
+    },
+    "result": {
+        "item": "minecraft:sculk_sensor",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "logs"
+      },
+      {
+        "tag": "logs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stick",
+      "count": 16
+    }
+  }
+  
